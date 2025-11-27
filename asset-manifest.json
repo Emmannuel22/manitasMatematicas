@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Emmannuel22/manitasMatematicas.git/static/css/main.359b3635.css",
-    "main.js": "/Emmannuel22/manitasMatematicas.git/static/js/main.e540265c.js",
-    "static/js/453.91d56d7f.chunk.js": "/Emmannuel22/manitasMatematicas.git/static/js/453.91d56d7f.chunk.js",
-    "static/media/video_numeros.mp4.mp4": "/Emmannuel22/manitasMatematicas.git/static/media/video_numeros.mp4.c9e482734a48e99fd0fc.mp4",
-    "static/media/suma.png.png": "/Emmannuel22/manitasMatematicas.git/static/media/suma.png.317fcf9f6e431e1163bc.png",
-    "static/media/resta.png.png": "/Emmannuel22/manitasMatematicas.git/static/media/resta.png.714944263becbe11f2db.png",
-    "static/media/division.png.png": "/Emmannuel22/manitasMatematicas.git/static/media/division.png.76131c4d36b7b43ef741.png",
-    "static/media/multiplicacion.png.png": "/Emmannuel22/manitasMatematicas.git/static/media/multiplicacion.png.0a12746eade94db18154.png",
-    "static/media/logo.png": "/Emmannuel22/manitasMatematicas.git/static/media/logo.350a49984bbad0b345b1.png",
-    "static/media/funcionamiento.png.jpg": "/Emmannuel22/manitasMatematicas.git/static/media/funcionamiento.png.ed2daa9bc0e35f717ea6.jpg",
-    "index.html": "/Emmannuel22/manitasMatematicas.git/index.html",
-    "main.359b3635.css.map": "/Emmannuel22/manitasMatematicas.git/static/css/main.359b3635.css.map",
-    "main.e540265c.js.map": "/Emmannuel22/manitasMatematicas.git/static/js/main.e540265c.js.map",
-    "453.91d56d7f.chunk.js.map": "/Emmannuel22/manitasMatematicas.git/static/js/453.91d56d7f.chunk.js.map"
+    "main.css": "/manitasMatematicas/static/css/main.359b3635.css",
+    "main.js": "/manitasMatematicas/static/js/main.de2909ca.js",
+    "static/js/453.91d56d7f.chunk.js": "/manitasMatematicas/static/js/453.91d56d7f.chunk.js",
+    "static/media/video_numeros.mp4.mp4": "/manitasMatematicas/static/media/video_numeros.mp4.c9e482734a48e99fd0fc.mp4",
+    "static/media/suma.png.png": "/manitasMatematicas/static/media/suma.png.317fcf9f6e431e1163bc.png",
+    "static/media/resta.png.png": "/manitasMatematicas/static/media/resta.png.714944263becbe11f2db.png",
+    "static/media/division.png.png": "/manitasMatematicas/static/media/division.png.76131c4d36b7b43ef741.png",
+    "static/media/multiplicacion.png.png": "/manitasMatematicas/static/media/multiplicacion.png.0a12746eade94db18154.png",
+    "static/media/logo.png": "/manitasMatematicas/static/media/logo.350a49984bbad0b345b1.png",
+    "static/media/funcionamiento.png.jpg": "/manitasMatematicas/static/media/funcionamiento.png.ed2daa9bc0e35f717ea6.jpg",
+    "index.html": "/manitasMatematicas/index.html",
+    "main.359b3635.css.map": "/manitasMatematicas/static/css/main.359b3635.css.map",
+    "main.de2909ca.js.map": "/manitasMatematicas/static/js/main.de2909ca.js.map",
+    "453.91d56d7f.chunk.js.map": "/manitasMatematicas/static/js/453.91d56d7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.359b3635.css",
-    "static/js/main.e540265c.js"
+    "static/js/main.de2909ca.js"
   ]
 }
